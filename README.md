@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @SarahBiscuit
-- 🌱 I’m currently learning how to code with HTML, CSS and Javascript.
+- 🌱 I am a full stack web developer.
